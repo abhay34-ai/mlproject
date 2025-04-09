@@ -1,6 +1,6 @@
 import sys
 import traceback
-import logging
+from src.logger import logging
 from datetime import datetime
 import os
 
